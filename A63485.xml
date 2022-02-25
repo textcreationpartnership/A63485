@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true copy of several affidavits and other proofs of the largeness and richness of the mines, late of Sir Carbery Pryse the original whereof are fil'd in the High Court of Chancery. Published at the request of several persons of quality, subscribers to the mine-adventure.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63485</idno>
+            <idno type="STC">Wing T2635A</idno>
+            <idno type="STC">ESTC R235319</idno>
+            <idno type="EEBO-CITATION">99832106</idno>
+            <idno type="PROQUEST">99832106</idno>
+            <idno type="VID">36576</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36576)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2100:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true copy of several affidavits and other proofs of the largeness and richness of the mines, late of Sir Carbery Pryse the original whereof are fil'd in the High Court of Chancery. Published at the request of several persons of quality, subscribers to the mine-adventure.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Freeman Collins, in the Old-Baily,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Copy imperfect; first leaf torn at right margin with some loss of text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mines and mineral resources --  Wales --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="collection_of_affidavits">
+            <pb n="1" facs="tcp:36576:1" rendition="simple:additions"/>
+            <head>A True COPY of SEVERAL AFFIDAVITS And other PROOFS of the Largeneſs and Richneſs of the Mines, LATE OF Sir CARBERY PRYSE, The Original whereof are Fil'd in the High Court of <hi>Chancery.</hi>
+            </head>
+            <p>
+               <hi>Publiſhed at the Requeſt of ſeveral Perſons of Quality, Subſcribers to the</hi> MINE-ADVENTURE.</p>
+            <div type="affidavit">
+               <head>The Affidavit of <hi>John Bevans,</hi> Gent. concerning the Mines of <hi>Bwlchyr Eſkirhyr.</hi>
+               </head>
+               <p>
+                  <hi>JOHN BEVAN,</hi> of <hi>Auſtin-Fryars, London, Gent.</hi> maketh Oath, That he, this Deponent, was ſent down by the Old Partners of the Mines late of Sir <hi>Carbery Pryſe,</hi> about Six Years ago, ſometime before the laſt Tryal in <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter-Hall</hi> between the Partners and Patentees of Royal Mines, to bring up a quantity of Oar out of the ſaid Mines, in a Place called <hi>Bwlchyr Eskir Hyr,</hi> in <hi>Cardiganſhire,</hi> in order to be try'd by ſome Artiſts in <hi>London;</hi> and accordingly this Deponent went down, and ſeveral times viewed the ſaid Mines under Ground; at which time a Shaft was ſunk about Twelve or Fourteen Yards deep, to the beſt of this Deponent's Remembrance, and a particular Friend of this De<g ref="char:EOLhyphen"/>ponent's being greatly concern'd in the ſaid Mines, this Deponent took particular Notice of the great Vein, and as near as this Depo<g ref="char:EOLhyphen"/>nent could gueſs by his Stick, with which he meaſured the ſame, the great Vein was then about Six Foot wide in Oar; which was the largeſt Bed, and the moſt beautiful Sight of Oar, that this Deponent ever ſaw, though he hath been concern'd and ſeen ſeveral other Mines. And this Deponent ſaith, That there were, in the ſame Mountain, ſeveral other Veins, ſome of which, he, this Deponent, was inform<g ref="char:EOLhyphen"/>ed, was richer in Quality than the great Vein. And that all the Workmen and other Perſons this Deponent diſcourſed with, who had ſeen the ſame Veins, did all agree that they were extraordinary good.</p>
+               <closer>
+                  <dateline>
+                     <hi>
+                        <date>Jur' 8<hi rend="sup">o</hi> die Decemb', Anno Dom' 1698.</date> coram me</hi> S. Keck.</dateline>
+                  <signed>Jo. Bevans.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>Mr. <hi>Hoyle</hi>'s Affidavit, concerning the Mines.</head>
+               <p>
+                  <hi>JOHN HOYLE,</hi> of the <hi>Still-Yard,</hi> in the Pariſh of <hi>All-Hallowes-Thames-Street,</hi> Gent. maketh Oath, That he, this Deponent, lived in <hi>Cardiganſhire</hi> for the ſpace of Three or Four Years, within this Seven Years laſt paſt, and was an Adventurer in a Lead Mine in that County, within Eight or Nine Miles of <hi>Bwlchyr Eskir Hyr,</hi> where the Mines late of Sir <hi>Carbery Pryſe</hi> do lye, and was well acquainted with ſeveral of the Miners and Workmen belonging to the ſaid Mines of Sir <hi>Carbery Pryſe;</hi> who upon all Occaſions, repreſented to this Deponent, That One of the <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Veins, called the Great Vein, was the largeſt they ever ſaw or hear<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of, and that it grew wider in Oar as it grew deeper, and never heard them ſay that it was leſs than Six Foot wide in Oar, at any time. And this Deponent ſaith, that he was once down to view the ſaid great Vein under Ground himſelf, and as well as this Deponent could gueſs, by Striding the ſaid Vein, it could not be leſs than Six Foot wide in Oar, as this Deponent verily believes. And this De<g ref="char:EOLhyphen"/>ponent ſaith, That he hath been concerned in, and hath ſeen ſeveral other Lead Mines, but never ſaw ſo large a Vein as the ſaid Great Vein, in his Life. And farther ſaith, That he ſaw great Quantities of Oar lying on the Bank of the ſaid great Vein: and that he is no ways intereſted in the ſaid Mines.</p>
+               <closer>
+                  <dateline>
+                     <hi>
+                        <date>Jur' 10 Die Decembris, An' Dom' 1698.</date> coram me</hi> Ri. Holford.</dateline>
+                  <signed>John Hoyle</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>Mr. <hi>Rilſton</hi>'s Affidavit, concerning the Mines</head>
+               <p>
+                  <hi>VALENTINE RILSTON,</hi> of <hi>Chirton,</hi> in the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Northumberland,</hi> Gent. Maketh Oath, That he, <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ponent, about Six or Seven Years ago, before the firſt <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>Weſtminſter-Hall</hi> between the Partners of the Mines <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Sir <hi>Carbery Pryſe,</hi> and the Patentees of Royal Mines, went <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to <hi>Bwlchyr Eskir Hyr,</hi> in the County of <hi>Cardigan,</hi> where <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Mines do lye, and viewed the ſaid Mines under Ground, and <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> up Three Boxes of ſeveral ſorts of Oar croſs the Vein, and brought it up ſealed with ſeveral Seals: and at that time one of the ſaid Veins, commonly called the Great Vein, was meaſured by this Deponent, and was ſeven Foot and an half wide in Oar, from ſide to ſide, and ſomething better. And this Deponent farther ſaith, That after the ſaid firſt Tryal, and before the ſecond Tryal, this Deponent went down a ſecond time to view the ſaid great Vein under Ground, and fetch up more Oar to <hi>London</hi> of the ſeveral ſorts in the ſaid Vein; which he did in the Preſence of <hi>William Corbet,</hi> of the <hi>Middle-Temple,</hi> Gent. and others, and cauſed the ſame to be carefully ſealed up in Boxes, and carried up to <hi>London,</hi> and this Deponent then meaſured the ſaid Vein a ſecond time, and found it near Eight
+<pb n="2" facs="tcp:36576:2"/>Feet wide in Oar; and this Deponent ſaw great Quantities of Oar lying on the Banks of the ſaid Vein, and on the Land of the Lady <hi>Pryſe;</hi> and heard ſeveral <hi>Derbyſhire</hi> Miners, and others, who came there to veiw the ſaid Mines, ſay, That they never ſaw <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> large a Vein in their Lives. And this Deponent further ſaith, That he hath no Intereſt or Concern in the ſaid Mines.</p>
+               <closer>
+                  <dateline>
+                     <hi>
+                        <date>Jur' 10 Die Decembris, An'Dom' 1698.</date> coram me</hi> S. Keck.</dateline>
+                  <signed>Val. Rilſton.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>Mr. <hi>Ducket</hi>'s Affidavit.</head>
+               <p>
+                  <hi>JOHN DUCKET</hi> of <hi>Salisbury-ſtreet</hi> in the Strand, in the Pariſh of St. <hi>Martins</hi> in the Fields, in the County of <hi>Mid<g ref="char:EOLhyphen"/>dleſex,</hi> Gent. maketh Oath, That he this Deponent, about <hi>Octo<g ref="char:EOLhyphen"/>ber, 1694.</hi> was imployed by the Partners of the Mines late of Sir <hi>Carbery Pryſe,</hi> Barrt. for building a Cupulo, for Smelting the Lead-Oar by Sea-Coal; and accordingly this Deponent did erect a Cupulo at a place called <hi>Bwlchyt Eshirhir</hi> in the County of <hi>Car<g ref="char:EOLhyphen"/>digan,</hi> where the ſaid Mines do lye; and having lived two years and upwards in the ſame County, hath ſeveral times viewed the ſaid Mines under Ground: And this Deponent further ſaith, That one of the Veins of the ſaid Mines, commonly called the <hi>Great Vein,</hi> was Meaſured by this Deponent, and contained above ſix Foot wide in Oar; the firm ſides of which Vein was much broader; and this Deponent alſo further ſaith, that all the time he lived there, he frequently Converſed with the Miners and Workmen belonging to the ſaid Works, and never heard from any of them, but a very great Character of the Mines; but hath often heard them ſay, it was pity ſuch vaſt rich Mines ſhould not be wrought to the beſt ad<g ref="char:EOLhyphen"/>vantage. And further this Deponent ſaith, That he hath ſeen the hard Oar from the ſaid great Vein, ſeveral times ſmelted into Lead in a Furnace by Sea-Coal; and that the ſame ſort of Oar was car<g ref="char:EOLhyphen"/>ried and Smelted into Lead at <hi>Briſtoll,</hi> and was ſold to ſeveral Plummers and Glaſiers there; And this Deponent was informed by the ſaid Plummers and Glaſiers, That the ſaid Lead was as good, and as fit for all manner of uſes, as any other Lead they had wrought. And this Deponent hath ſeveral times tryed the Lead himſelf, by an Aſſay, and found it to be very good, being of a good Grain and very Tough; and believes it to be as good Lead as can <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brought to a Market. And this Deponent further ſaith, That <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lliam Waller</hi> of <hi>Kavongwyn,</hi> in the ſaid County of <hi>Cardigan,</hi> 
+                  <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> having informed this Deponent, that he had diſcovered by his Workmen ſome Copper Veins, in the carrying up of the Eaſt Le<g ref="char:EOLhyphen"/>vel to the ſaid Mines, deſired this Deponent to try the ſeveral Oars ariſing from the ſame, and what Proportion the ſame yielded in Copper; and accordingly this Deponent did try two ſeveral ſorts of Oar, which was delivered to him by the ſaid Mr. <hi>Waller;</hi> and found that one ſort thereof, being of a reddiſh Brown Colour, did yield above Four Tun of Copper out of Twenty Tun of Oar; and that another ſort thereof, which was of a Green Colour, did yield about Three Tun of Copper out of Twenty Tun of Oar; and af<g ref="char:EOLhyphen"/>ter words this Deponent went down to the ſaid Mines, to ſee the places where the ſaid two ſorts of Oar was Raiſed; and at the Eaſt end of the ſaid Mountain, called <hi>Bwlchyr Eſyairhyr,</hi> where the ſaid Mines do lye, he this Deponent, did ſee the ſaid two ſeveral <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of Oars lying on the Banks, and raiſed out of the Shafts, ſunk <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Eaſt end of the ſaid Mountain.</p>
+               <closer>
+                  <dateline>
+                     <hi>
+                        <date>
+                           <gap reason="illegible" resp="#UOM" extent="1 span">
+                              <desc>〈…〉</desc>
+                           </gap>2<hi rend="sup">o</hi> die Decemb' <gap reason="illegible" resp="#UOM" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> Dom. 1698.</date> co<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#UOM" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> me</hi> Rog. Meredith.</dateline>
+                  <signed>John Ducket.</signed>
+               </closer>
+            </div>
+            <div type="certificate">
+               <head>Certificate of the Committee.</head>
+               <p>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> whoſe Names are hereunto Subſcribed, being Members <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of the Committee, choſen for the Management if the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <hi>Bwlchyr Eſhirhir,</hi> late of Sir <hi>Carbery Pryſe,</hi> Barrt. <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> County of <hi>Cardigan,</hi> Do hereby Certify, That <hi>Thomas <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>toman</hi> (formerly imployed by Sir <hi>Edward Blakett,</hi> as a Clerk, to keep the Accounts of his Lead Works) was about the Month of <hi>April, 1694</hi> at the requeſt of Sir <hi>Chriſtopher Wren,</hi> ſent down to Inſpect the ſaid Works of <hi>Bwlchyr Eskirhir,</hi> and Management thereof, And upon view of the ſaid Mines, ſent us a Letter direct<g ref="char:EOLhyphen"/>ed to Sir <hi>Chriſtopher Wren,</hi> (who was then our Chairman) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<g ref="char:EOLhyphen"/>ted at <hi>Bwlchyr Eskirhir,</hi> the Ninth of <hi>May, 1694</hi> with ſeve<g ref="char:EOLhyphen"/>ral Papers incloſed, containing his Obſervations on, and Directions concerning the Management of the ſaid Mines; whereby it appear<g ref="char:EOLhyphen"/>ed to us, that he had then a very great Opinion of the Mines; ſaying <hi>the Concern was weighty, and did Comport with great Minds and Purſes;</hi> and Encouraged us to ſend ſucceſſive Funds for the Advantagious carrying on the Works; alledging, <hi>that the more was <gap reason="illegible" resp="#UOM" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> out in an Undertaking that had the Proſpect of Succeſs, the more conſiderable would the Profit be.</hi> And amongſt other things, he particularly informed us, <hi>That 1875. Tuns of Oar, would yield 1250 Tuns of Lead,</hi> which is juſt two thirds; and <hi>That 15000 of Oar, or 10000 Tuns of Lead would require 32 Hearths, or 8 Mills and 64 Smel<g ref="char:EOLhyphen"/>ters, with as many Servers.</hi> By all which, and ſeveral other Calculations and Propoſals for carrying on the ſaid Works, which would have been very Chargeable and Expenſive; and by his own Diſcourſe, when he appeared Perſonally amongſt us, we did conclude he had a very great Opinion of the Richneſs of the ſaid Mines; and but little, if any thing inferiour to Mr. <hi>Waller</hi>'s Valuation.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>Will. Freeman.</item>
+                        <item>Anthony Forty.</item>
+                        <item>Tho. Phipps.</item>
+                        <item>Ja. Blake.</item>
+                        <item>Richard Chauncy.</item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+         </div>
+         <div type="disquisition">
+            <p>THeſe Affidavits and Certificates are publiſhed for the Satisfaction of ſeveral Perſons of Quality, who had been inform'd by ſome malicious Perſons, that we had ne<g ref="char:EOLhyphen"/>ver a Vein one Foot wide in Oar; we preſume we need make no Obſervations upon them, being ſo very plain in themſelves, and depoſed by Perſons of good Credit and Reputation, who have no Intereſt in the Mines, tho' ſome of them forgot to mention it in their Affidavits: And it is to be obſerved, That ſome of the Affidavits were made of the Wideneſs of the great Vein before, and ſome of them after Mr. <hi>Bateman</hi> was down to view the Veins, which was in <hi>May,</hi> 1694.</p>
+            <p>We can have many more Affidavits of the Truth of this Matter, if deſired; but theſe ſeeming to be ſufficient, we forbear giving this trouble to any other Gentlemen: And if any Perſons of Quality deſire it, they may not only ſee the Original Affidavits, which are filed in <hi>Chancery,</hi> but al<g ref="char:EOLunhyphen"/>ſo diſcourſe with the Perſons that made them, and be far<g ref="char:EOLhyphen"/>ther ſatisfied in any other Particular.</p>
+            <p>And now we deſire to know, what can be objected a<g ref="char:EOLhyphen"/>gainſt this Undertaking. If the matter of Fact be true, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cording to theſe Affidavits, the great Vein alone, witho<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the other five Lead-Veins, without the Copper-Veins, and without the Silver, being ſo near the Sea, ſo near the Sur<g ref="char:EOLunhyphen"/>face of the Ground, with two advantagious Levels of Soughs to drain the Water from them, at each end of the Works, muſt be, to any rational Perſon (eſpecially if he be acquainred with Mineral-Works) a ſufficient Fund to an<g ref="char:EOLunhyphen"/>ſwer very conſiderable Profit to all the Adventurers: But if he will make any (tho' ever ſo moderate Valuation) of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other Lead-Veins; and if he conſiders the Richneſs of th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Copper, and the Probability of the Silver, as the Mine <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſunk deeper, certainly he can't but ſay, this is a fair Ove<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ture to the World. Is it ſo ſtrange a thing for an Origin<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Undertaker to gain Eight Hundred Pound <hi>per Cent.</hi> Profi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Has it not been done formerly in the <hi>Hudſon-Bay</hi> Company in the Post-Office, in the New-River Water? Nay, was not one Share in the New-River Water ſold at firſt for a Hun<g ref="char:EOLunhyphen"/>dred Pounds, and yields now Four Thouſand Pound, which is Three Thouſand Nine Hundred Pound <hi>per Cent.</hi> Profit. But then (ſays the Objector) <hi>Why ſhould any Perſon par<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> with ſuch a Profit, it looks too generous, and too like <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Drawer?</hi> There's the Miſtake, the Objector thinks tha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Sir <hi>H. M.</hi> gives this Eight Hundred Pound <hi>per Cent.</hi> ou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his own Pocket; no, Sir <hi>H. M.</hi> ſhares all the Prof<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> along with the reſt of the Adventurers, he ſees an advan<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>gious bargain, can't compaſs to purchaſe the whole, goes <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> deep as his Circumſtances will admit, and then invites h<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Friends to gain with him; and ſince they can't compaſs th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whole, he offers it to the World. What need he care who has the Benefit along with him, ſo long as he has his ſhare of it, he loſes nothing that he was able to get, and without Partners, he was not able to get any thing at all.</p>
+            <p>But to return, If the Matter of Fact be true, why canno<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we make the ſame common and uſual Advantage of a Mine that every other Perſon does? Are we like to manage it worſe than others, becauſe we have a greater Stock? No; th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Caſe is no more but this: Some of the Objectors plainl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tell us, if you ſucceed, you'll ruin our Works; therefor<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:36576:2"/>you'll excuſe us, if we endeavour to ruine yours. Others, who are not ſo generous Adverſaries, tell us, our Oar is be<g ref="char:EOLhyphen"/>witch'd and won't melt, it may indeed melt in a Fire-ſhovel, but not in a Furnace; and the Reaſon is plain, becauſe every Adventurer has, or may try it, either in a Fireſhovel or a Tobacco pipe, but they cannot ſo eaſily come at a Furnace.</p>
+            <p>It is a wonderful thing with what Confidence Men can aſſert the moſt notorious and ridiculous Falſities, when either Envy or Self-Intereſt moves them to it.</p>
+            <p>We had the Happineſs, Two or three Days ago, to be in<g ref="char:EOLhyphen"/>troduced into the Company of Sir <hi>George Strode</hi> of <hi>Worceſter,</hi> Barronet, who is a Perſon of Quality and great Reputation, he was pleaſed to tell us, That he admir'd that any Perſon could have the Confidence to ſpeak againſt the Largeneſe of the great Vein, or againſt the Smelting of the Oar; ſince every Perſon in the County of <hi>Cardigan,</hi> eſpecially near the Mines, knows the Contrary; and told us, That in <hi>September</hi> and <hi>October,</hi> 1696. he was in that Country to ſee a Relation, and out of Curioſity went down to view the great Vein in <hi>Bwlchyr Eskirhyr,</hi> where he had worked in Oar till he had bliſtered his Hands, and that he meaſured the ſaid great Vein, and put it down in Writing, and that he very well remem<g ref="char:EOLhyphen"/>bers that it was above Six Foot wide in Oar; and farther, that he took ſome of the Oar with him, and ſmelted it him<g ref="char:EOLhyphen"/>ſelf in an Iron Ladle on a Kitchen Fire, and that it did run into good Lead. He ſays, he ſaw great Quantities of Oar raiſed there; and that it lies convenient to the Sea, and be<g ref="char:EOLhyphen"/>lieves it to be a very rich Mine, and ſo did all he met with in the County of <hi>Cardigan,</hi> he has been ſo kind as to give us leave to mention theſe things; and is pleaſed to ſay, that if any Gentleman comes to him at his Lodgings over-againſt the <hi>Roſe-Tavern,</hi> in <hi>Ruſſel-ſtreet, Covent-Garden,</hi> and deſires it, he will be ſo kind as to give them a full Account of his Knowledge of this Matter.</p>
+            <p>There are many of the old Partners, Perſons of great Cre<g ref="char:EOLhyphen"/>dit and Reputation, who could make Affidavits to the ſame Purpoſe as the former; but being Parties concerned, we have not given them that Trouble; but what Reports were made by any of them ſome time ago, long before this Undertaking was thought of, may perhaps, not be improper juſt to take Notice of.</p>
+            <p>And therefore we will acquaint the Reader, That in <hi>Nov.</hi> 1694. which was after Mr. <hi>Bateman</hi> was down to view the Mines. Mr. <hi>Thomas Phipps</hi> and Mr. <hi>Anthony Fortye,</hi> were ſent down by Order of a Committee, to view the ſaid Mines and to inſpect the Management thereof; who do certifie amongſt many other things, That the Mines did appear to them nothing inferiour to what they had been repreſented, ſeveral very conſiderable Veins being diſcovered between the two Levels, lying Eaſt and Weſt, for the ſpace of above a Thouſand Yards; that the great Vein was four Foot wide in good Oar, and grew wider, and before Mr. <hi>Phipps</hi> left the Country, which was leſs than two Months, he meaſured it ſix Foot wide in Oar; that the carrying up of theſe Levels is a neceſſary Work, they being finiſhed, will eaſe us of a troubleſome Water charge, and it will make us capable of putting on as many Hands as we pleaſe, and none without Benefit.</p>
+            <p>Mr. <hi>London,</hi> of the Royal Gardens, in a Perſon of great Credit, and has been three ſeveral times in three ſeveral Years to view the Mines, <hi>viz.</hi> in 1694 with Mr. <hi>Bateman,</hi> in 1695, and 1696. And we need not tell the World what he ſays of the Greatneſs and Richneſs of theſe Mines; be<g ref="char:EOLhyphen"/>cauſe his Actions hath ſufficiently proved his great Opinion of them: For when he ſaw ſuch a vaſt Rich Treaſure lie dead and unwrought, meerly for want of good Agreement amongſt the Partners, and a Stock to carry on the Works. He voluntarily advanced Fifteen Hundred Pound on the Credit of the Mines, at Six <hi>per Cent.</hi> without any Premium; thereby plainly demonſtrating, That he look'd upon the Se<g ref="char:EOLhyphen"/>curity of the Mines to be as certain and good, as any Land-Security; and we believe, That if any Perſon conſiders who are the old Partners, and will take the pains to read over the Names of them, he will not eaſily be of Opinion, that all thoſe Gentlemen would combine together to impoſe upon the World.</p>
+            <p>But as to the Wideneſs of the great Vein, to avoid all Miſtakes for the future, we will for once, acquaint the Reader, That all ſorts of Veins are ſubject to Twitches, eſ<g ref="char:EOLhyphen"/>pecially ſo near the Surface of the Ground as theſe Mines are; but generally the Vein proves much richer and broader after a <hi>Twitch</hi> than before: The Nature of which, that you may more fully underſtand, we beg leave to explain it thus.</p>
+            <p>The great Vein (for inſtance) is Eleven Foot wide be<g ref="char:EOLhyphen"/>twixt its firm and ſolid ſides; and all that lies between thoſe firm ſides, is either <hi>Oar</hi> or ſomething that lies in the Place of <hi>Oar,</hi> which we call <hi>Vein-ſtone</hi> and differs in many re<g ref="char:EOLhyphen"/>ſpects from any other Stones, moſt other Veins are full of <hi>Vein-ſtone,</hi> betwixt the firm ſides, till they are ſunk fifty or ſixty Yards deep; and all that time the Vein is ſaid to be a dead Vein, becauſe it has no Oar, but only Vein-ſtone, and when it comes to Oar, then they ſay the Vein is a quick Vein, and as the Vein grows deeper, the Oar eats out the Vein-ſtone by degrees, and ſo grows wider and wider, till it comes to be all Oar betwixt the firm ſides of the Veins; and all the dead Vein-ſtone is vaniſhed and gone.</p>
+            <p>But yet before it comes to this Perfection, it is very uſual for the Vein-ſtone (now and then) to get ground of the Oar, and to pinch in the Oar into a narrower compaſs, which is called a <hi>Twitch;</hi> but then the Oar (like an angry Warriour) certainly recovers it ſelf, and never leaves off getting ground, till at laſt, after ſeveral Combats of the like nature, it has gained the Field and conquered the Enemy.</p>
+            <p>For as in all other natural Productions above ground, ſo in things below, Nature is regular; but yet in ſuch manner, as admits of ſome ſeeming Irregularities to exerciſe the Wits of Men, and make us more induſtrious, till at length we have arrived to a great Experience, and then we may be able to reduce all thoſe Irregularities to certain ſtanding Rules; as for inſtance,</p>
+            <p>In this Caſe of a Twitch, it is a conſtant Obſervation, that as the Twitch comes in, ſo it goes out again; if it comes in ſlow in a ſharp Angle, then it goes out by Degrees in the ſame form; but if it comes in of a ſudden in an obtuſe An<g ref="char:EOLhyphen"/>gle, it goes out as ſudden in the ſame manner; and many more ſuch Rules are to be obſerved.</p>
+            <p>But we ſhall forbear to give any farther account thereof at this time, or the Philoſophical Reaſons for theſe Twitches, though it would not be difficult to do it, from the common Obſervations of the Mineral Water that feeds the Vein, which when reſtrained by ſuch a Twitch from aſcending up<g ref="char:EOLhyphen"/>wards, always makes the Vein the more rich below; and the more Twitches in a Vein, the richer ſtill is the Oar; ſo that theſe Twitches ſeem to be deſigned by Nature to enrich the Mines below, for if there were none, the Mineral Feeder would eaſily aſcend to the Surface to the ground and eva<g ref="char:EOLhyphen"/>porate.</p>
+            <p>Now to give you a ſhort Hiſtory of this great Vein; It was at firſt Diſcovery thereof about Seven years ago, about One Foot wide in Oar, at the very Surface of the ground and all the reſt was Vein-ſtone betwixt the ſaid firm ſides and as the Mines were ſunk down, the Oar ſtill increaſed, and the Vein-ſtone decreaſed, till the Vein was Six Foot wide in Oar, and then about the beginning of the year 1694. the Twitch came in by degrees in a ſharp Angle, and the Vein-ſtone got ground conſiderably of the Oar, till the Oar came to be a Yard wide, and in ſome places three quarters of a Yard; and at laſt not above a Foot, but as the Twitch came in ſo it went out by degrees in the ſame proportion, and then the Oar got ground and increaſed to ſeaven foot ſix inches, and be<g ref="char:EOLhyphen"/>came much richer, as well as broader and thus we muſt expect the Battle will continue between the Vein-ſtone and the Oar, till we have ſunk to that deepneſs, that the Oar has got the en<g ref="char:EOLhyphen"/>tire victory, and become Eleven Foot wide, betwixt its firm and ſolid ſides, which we have great reaſon to believe it will do, when our Levels are carried home, at Sixty four Yards deep; and then we may challenge the whole World to ſhew ſuch another Vein.</p>
+            <p>There is alſo another conſtant Obſervation in Mineral-Works, and that is betwixt a Lime-ſtone, Sill or Side, and a Rag-ſtone Sill or Side, in which there is always obſerv'd a manifeſt difference in relation to theſe Twitches.</p>
+            <p>For when the Vein lies betwixt a Lime-Sill, or ſide, as in <hi>Darbyſhire</hi> and <hi>Flintſhire,</hi> there the Sides of the Vein of<g ref="char:EOLhyphen"/>ten make the Twitch, which is the worſt ſort of Twitches; but yet, even in theſe Caſes, the Vein is never loſt by ſuch a Twitch: but where the Vein lyes between a Rag-ſill or Side, there the Sides are more firm and regular; and the Twitch is always made by the Vein-ſtone (which ſome call a Rider) and no Man can ever inſtance that any Vein was ever loſt by ſuch a Twitch; but that the Oar afterwards was richer and broader, as aforeſaid. But ſome ignorant and un<g ref="char:EOLhyphen"/>skilful Perſons, who know nothing of theſe Matters, are
+<pb n="4" facs="tcp:36576:3" rendition="simple:additions"/>frighten'd at ſuch a Twitch, and think the Vein is going off from them; whereas an experienc'd Artiſt rather rejoices at it, and at firſt ſight tells his Workmen, that then he hath great Hopes of a richer Mine; but of this we will trouble the Reader no more at this time; only we will acquaint him that a certain Perſon (not having any Judgment in Mineral-Works) did imagine that this great Vein might poſſibly be no more than a Belly of Oar, ſuch as they have in <hi>Darbyſhire,</hi> and the rather, becauſe on each ſide the firſt Shaft that was ſunk there is a little Deſcent of Ground which had caſt down the Rock upon the Vein; but that Opinion appear'd to be a great Miſtake to every Artiſt at firſt Sight, and to all others when the Tryals and croſs Cuts were made, and the Vein found from the End of the Hill to the other, Twelve hundred Yards in length (whereas it is a mighty Belly of Oar that is Fifty Yards in Length); but eſpecially when the parralel Veins were found, which are ſufficient to demonſtrate to any skilful Artiſt, that the great Vein is of the ſame kind, and in all probability, the main Body of all the other Veins.</p>
+            <p>But we can't help the Ignorance nor the Malice of Men; but (God be thank'd) we are now in a Condition to help our ſelves; we have a noble Stock to manage the Mines, actu<g ref="char:EOLhyphen"/>ally paid in Bank-bills, and Goldſmiths Notes; and now we are printing Affidavits, we were once in the mind to have added one more in pure Revenge, and that was to let our Adverſaries know, that all our Money is paid in to a ſmall matter, there not being above Fifteen hundred Tickets unpaid for; and of theſe the greateſt part are Subſcribers out of the Country, and have ſent notice that they really want their Money, and not a good Affection to the Cauſe. They ſay, we came a little too quick upon them, before they could get their Money return'd out of the Country and paid above. But we don't hear that all the induſtrious Contrivances of our Adverſaries has made one falſe Brother amongſt us of Twen<g ref="char:EOLhyphen"/>ty Pounds Value.</p>
+            <p>When Men are about an unprofitable Undertaking, the World is ſeldom ſo good natur'd as to be at ſo much Trouble and Ex<g ref="char:EOLhyphen"/>pence to undeceive them: And therefore the Envy and Oppoſi<g ref="char:EOLhyphen"/>tion this meets with, is one very great Argument, amongſt the reſt, to convince us of the Value of the Mines, and of the greatneſs of this Undertaking.</p>
+            <p>But that the World may judge by a clearer Light of the un<g ref="char:EOLhyphen"/>reaſonableneſs of this Oppoſition, we will deſire them to conſider, whether they would think it reaſonable for a pow<g ref="char:EOLhyphen"/>erful Man to ſend to his Neighbours and forbid them to ſow any Corn in their Ground; for if you do (ſays he) more Corn will come to the Market, and conſequently the Price thereof leſſened to my Damage; therefore either deſiſt, or elſe I will blaſt your Credit ſome way or other: I will tell the World your Ground won't yield good Corn, that poiſon<g ref="char:EOLhyphen"/>ous Weeds grows up with it, that if any Corn be had, yet that it won't grind in the Mill, nor make Bread; or elſe the Bread will not be good for any Uſe whatſoever; and by this Means, when you have been at great Charges, I will ruine your Undertaking.</p>
+            <p>Juſt thus they deal with us, ſome ſay we have no ſuch Mountain, or if we have, there's no Oar in it, but if we have Oar, yet it won't Melt; and if it ſhould happen to Melt, yet the Lead is worth nothing. But if you whiſper a Friend in the ear, and ask him why all this? it may be, he may truſt you with the Secret, and tell you, it muſt be ſo, for if it were otherwiſe, all the Mines in <hi>England</hi> will be Ruined; And we could ſhew you ſomething to this pur<g ref="char:EOLhyphen"/>poſe in Writing, but that we have a reſpect for the perſon that writ it.</p>
+            <p>But although we do not owe all our Adverſaries that kind<g ref="char:EOLhyphen"/>neſs, yet ſince there are ſome perſons of great Honour and Reputation, who are pleaſed to do us Juſtice, though againſt their own Intereſt; and ſince we think it our Duty to return-Good for Evil, we will inform them, That we are in Con<g ref="char:EOLhyphen"/>ſultation upon another Undertaking, that ſhall Advance the value of all the Mines in <hi>England</hi> and <hi>Wales,</hi> and ſhall be ready to receive any perſons really concerned in the ſame Inte<g ref="char:EOLhyphen"/>reſt, to aſſiſt at our Debates and Conſultations on this Sub<g ref="char:EOLhyphen"/>ject.</p>
+            <p>We have forbore to make any farther Obſervations on Mr. <hi>Bateman,</hi> becauſe he hath publickly, at the laſt General Meeting, by the Mouth of Sir <hi>Chriſtopher Wren,</hi> denyed that he had ſpoak any thing againſt theſe Mines. But however, if he or any perſon elſe hath any thing to offer to the World on this Subject, we hope they will be ſo fair as to anſwer us on Oath, and File their Affi<g ref="char:EOLhyphen"/>davits in Chancery, as we have done; and then the Pillory ſhall make an end of the Controverſie, and prevent an im<g ref="char:EOLhyphen"/>pertinent Paper War.</p>
+            <div type="conclusion">
+               <p>UPON the whole Matter, we hope by this time, the Reader is ſatisfied we have a <hi>MINE,</hi> and perhaps ſuch a one as cannot be parallel'd in the Chriſtian World.</p>
+               <p>And we doubt not, but when the Levels are carried home to the ſeveral Veins, every Adventurers Share will as freely ſell for One Hundred Pounds, as they do now for Twenty; and perhaps this Company, under ſo good a Conſti<g ref="char:EOLhyphen"/>tution as they now enjoy, may in a reaſonable time, be as conſiderable as any other in the whole Kingdom, eſpecially if the Stock be enlarged, and the Charity given out of the clear Profit: For ſince no Mines can be worked to any con<g ref="char:EOLhyphen"/>ſiderable Profit, without a large Stock; which few Proprietors, are able to raiſe, it will be their Intereſt to offer them to this Society, under whoſe Management with ſo great a Stock, a Tenth Duty will yield more Profit to the Lord than a fifth from any private Perſon; ſo that in time this Company will have the working of many more Mines, to the great Advantage of the whole Kingdom; and, ſince a part of the Profits is appropriated to Charitable <g ref="char:V">Ʋ</g>ſes, we humbly hope we may in time be inſtrumental, in ſome Meaſure, towards accompliſhing that great End his Majeſty hath been graciouſly pleaſed to recommend to both Houſes of Parliament; that is, to Employ the Poor, and improve our Manufactures; and conſequently, to add conſiderably to the National Stock, and bring more Wealth to <hi>Eng<g ref="char:EOLhyphen"/>land</hi> than any Foreign Trade whatſoever.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Freeman Collins,</hi> in the <hi>Old-Baily,</hi> 1698.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
